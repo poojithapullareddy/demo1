@@ -1,0 +1,32 @@
+{
+  "dev": {
+    "data_758976": "lleber",
+    "data_347800": "P@ssword123",
+    "data_959848": "sierra"
+  },
+  "qa": {
+    "data_758976": "lleber",
+    "data_347800": "P@ssword123",
+    "data_959848": "sierra"
+  },
+  "integration": {
+    "data_758976": "lleber",
+    "data_347800": "P@ssword123",
+    "data_959848": "sierra"
+  },
+  "staging": {
+    "data_758976": "lleber",
+    "data_347800": "P@ssword123",
+    "data_959848": "sierra"
+  },
+  "uat": {
+    "data_758976": "lleber",
+    "data_347800": "P@ssword123",
+    "data_959848": "sierra"
+  },
+  "prod": {
+    "data_758976": "lleber",
+    "data_347800": "P@ssword123",
+    "data_959848": "sierra"
+  }
+}
